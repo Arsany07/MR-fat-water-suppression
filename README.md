@@ -40,7 +40,6 @@ This project implements the Dixon technique to separate fat and water signals in
 Visualization includes:
 - In-phase and Out-of-phase MRI images
 - Resulting Water and Fat images (with and without filtering)
-- ![Results](https://github.com/Arsany07/MR-fat-water-suppression/blob/mainResults.png))
 
 ## References
 
